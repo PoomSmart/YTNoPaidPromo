@@ -1,0 +1,11 @@
+Package: com.ps.ytnopaidpromo
+Name: YTNoPaidPromo
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Remove "Include paid promotion" banner from videos on YouTube app.
+Maintainer: PoomSmart
+Author: PoomSmart
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Depiction: https://poomsmart.github.io/repo/depictions/ytnopaidpromo.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytnopaidpromo.json
