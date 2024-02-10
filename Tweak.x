@@ -1,5 +1,5 @@
-#import "../YouTubeHeader/YTPlayerOverlay.h"
-#import "../YouTubeHeader/YTPlayerOverlayProvider.h"
+#import <YouTubeHeader/YTPlayerOverlay.h>
+#import <YouTubeHeader/YTPlayerOverlayProvider.h>
 
 %hook YTMainAppVideoPlayerOverlayViewController
 
